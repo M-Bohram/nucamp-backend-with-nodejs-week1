@@ -4,7 +4,7 @@
 const express = require('express')
 const app = express()
 
-const noteRouter = require('./routers/noteRouter')
+const noteRouter = require('./routes/noteRouter')
 
 const PORT = 3000
 
